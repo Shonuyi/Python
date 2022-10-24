@@ -1,13 +1,4 @@
 
-# Program Name: Lab1.py (Lab 1)
-# Course: IT1114/Section W03
-# Student Name: TITILAYO SHONUYI
-# Assignment Number: Lab1 
-# Due Date: 08/28/ 2022
-# Purpose: Help users to Calculate the Total Cost of Installing Flooring
-# w3schools.com/python/python_user_input.asp and pythonguides.com
-
-
 Length1= float(input(" Enter length of the room "))             #getting user input
 Width1 = float(input(" Enter width of the room "))              #getting user input
 Cost_sqft= float(input(" Enter cost of flooring per sqft "))    #getting user input
