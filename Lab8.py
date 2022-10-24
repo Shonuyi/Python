@@ -1,10 +1,3 @@
-# Program Name: Lab8.py (Lab 8)
-# Course: IT1114L/Section W03
-# Student Name: TITILAYO SHONUYI
-# Assignment Number: Lab 8
-# Due Date: 10/23/2022
-# Arrays
-# w3schools.com/python/python_user_input.asp and pythonguides.com
 
 from random import randrange
 
