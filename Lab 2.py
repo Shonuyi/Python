@@ -1,11 +1,3 @@
-# Program Name: Lab1.py (Lab 2)
-# Course: IT1114L/Section W03
-# Student Name: TITILAYO SHONUYI
-# Assignment Number: Lab1 
-# Due Date: 09/04/ 2022
-# Purpose: Determine food cost for KSU CCSE Hackthon
-# w3schools.com/python/python_user_input.asp and pythonguides.com
-
 import math
 print (" Output with Pizza and Salad Discount ")
 print ()
